@@ -32,8 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You </h1>
-   <br>
-   <h1> Happy Learning.</h1>
+   <h1 style="color:Green;"> Thank You </h1>
+   <h1 style="color:Blue; text-align:center;"> Once the registration is complete, please share your feedback</h1>
    
 </form>
